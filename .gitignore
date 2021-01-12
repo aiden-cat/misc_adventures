@@ -1,13 +1,17 @@
-Mercury/
-Mercury.modules
-*.mh
-*.err
-*.init
-*.dll
-*.exe
-*.a
-*.so
-*.dylib
-*.beams
-*.d
-*.c_date
+# Directories #
+.ipynb_checkpoints/
+data/
+# Data files #
+*.csv
+*.htm
+*.html
+*.txt
+*.zip
+
+# Other binary files #
+*.xlsx
+*.xls
+*.xlsm
+*.png
+*.jpg
+*.gif
